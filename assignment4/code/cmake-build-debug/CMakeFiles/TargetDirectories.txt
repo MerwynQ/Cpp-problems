@@ -1,0 +1,6 @@
+/home/morningstar/Documents/s8mequad_2581654/assignment4/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/morningstar/Documents/s8mequad_2581654/assignment4/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/morningstar/Documents/s8mequad_2581654/assignment4/code/cmake-build-debug/CMakeFiles/task2.dir
+/home/morningstar/Documents/s8mequad_2581654/assignment4/code/cmake-build-debug/CMakeFiles/task3.dir
+/home/morningstar/Documents/s8mequad_2581654/assignment4/code/cmake-build-debug/CMakeFiles/task4.dir
+/home/morningstar/Documents/s8mequad_2581654/assignment4/code/cmake-build-debug/CMakeFiles/task5.dir

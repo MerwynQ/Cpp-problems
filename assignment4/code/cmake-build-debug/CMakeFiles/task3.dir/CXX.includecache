@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/morningstar/Documents/s8mequad_2581654/assignment4/code/matrix.hpp
+cassert
+-
+initializer_list
+-
+memory
+-
+ostream
+-
+
+/home/morningstar/Documents/s8mequad_2581654/assignment4/code/munkres_algorithm.cpp
+munkres_algorithm.hpp
+/home/morningstar/Documents/s8mequad_2581654/assignment4/code/munkres_algorithm.hpp
+vector
+-
+string
+-
+ostream
+-
+iostream
+-
+algorithm
+-
+sstream
+-
+
+/home/morningstar/Documents/s8mequad_2581654/assignment4/code/munkres_algorithm.hpp
+matrix.hpp
+/home/morningstar/Documents/s8mequad_2581654/assignment4/code/matrix.hpp
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/morningstar/Documents/s8mequad_2581654/assignment3/code/task2.cpp
+string
+-
+vector
+-
+ostream
+-
+iostream
+-
+algorithm
+-
+cmath
+-
+random
+-
+iomanip
+-
+numeric
+-
+

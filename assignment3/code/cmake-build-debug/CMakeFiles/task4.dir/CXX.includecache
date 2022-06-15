@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/morningstar/Documents/s8mequad_2581654/assignment3/code/matrix.hpp
+cassert
+-
+initializer_list
+-
+memory
+-
+ostream
+-
+iterator
+-
+cstddef
+-
+
+/home/morningstar/Documents/s8mequad_2581654/assignment3/code/task4.cpp
+matrix.hpp
+/home/morningstar/Documents/s8mequad_2581654/assignment3/code/matrix.hpp
+ostream
+-
+iostream
+-
+

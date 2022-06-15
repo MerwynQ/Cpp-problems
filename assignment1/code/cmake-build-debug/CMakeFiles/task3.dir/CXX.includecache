@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/morningstar/Documents/s8mequad_2581654/assignment1/code/task3.cpp
+string
+-
+vector
+-
+ostream
+-
+iostream
+-
+sstream
+-
+algorithm
+-
+
